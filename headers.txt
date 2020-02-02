@@ -1,1 +1,17 @@
-
+"expires": "Thu, 30 Jan 2020 05:19:57 GMT", 
+"date":  "Thu, 30 Jan 2020 05:19:57 GMT",
+"cache-Control" : "private, max-age=0, must-revalidate, no-transform", 
+"etag" : "\"IUREzboS_XZycecz4xfru1ipYfo/so573xToMpjIvmn2UO5tKk-Vvy0",
+"vary" : "Origin", 
+"vary" : "X-Origin", 
+"content-Type" : "application/json; charset=UTF-8",
+"content-Encoding" : "gzip",  
+"X-Content-Type-Options : "nosniff", 
+"x-Frame-Options: "SAMEORIGIN",
+"x-XSS-Protection" : 1; mode=block",
+"Server" : "GSE",
+"alt-Svc →quic=":443"; ma=2592000; v="44,43,39", 
+ "requestHeader" : {
+"Accept" : "application/json, text/plain, */*",
+"User-Agent" : "axios/0.18.0"
+}
